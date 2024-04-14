@@ -1,0 +1,15 @@
+
+
+The "text_to_handwriting" project aims to convert digital text input
+into handwritten format, offering a unique and personalized approach to
+text presentation.
+
+By leveraging Python libraries such as Pillow,
+the script dynamically generates images resembling handwritten text,
+enriching the user experience with a touch of authenticity and creativity.
+
+Through its intuitive interface and customizable features,
+the project provides users with a seamless tool for transforming plain
+text into visually appealing handwritten notes, suitable for a variety of
+applications including digital storytelling, educational materials,
+and personal correspondence.
