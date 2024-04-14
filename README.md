@@ -2,6 +2,9 @@
 
 Transform plain text into handwritten PDFs effortlessly.
 
+![Before after - TXT to handwriting](https://github.com/tanulmittal/Text2Handwriting/assets/18682128/997bc9e4-9b9b-49ee-b181-a8e0768c3f95)
+
+
 ## How to Use
 1. Clone the repository.
 2. Install dependencies: `pip3 install pillow'
